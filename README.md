@@ -1,2 +1,2 @@
 # hello-world
-My repository
+I am a datascience student
